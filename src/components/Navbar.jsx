@@ -29,9 +29,9 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <div className="">
+            {/* <div className="">
               <span className="text-white font-bold text-xl">🌱</span>
-            </div>
+            </div> */}
             <span className="font-bold text-xl text-gray-900">Krishi Sakhi</span>
           </Link>
 
